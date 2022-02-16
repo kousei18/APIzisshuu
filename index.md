@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+# ニ田 航成
 
-You can use the [editor on GitHub](https://github.com/kousei18/APIzisshuu/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+開志専門職大学　情報学部　2020年度入学
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+1年生　Aクラス
+2年生　Bクラス
 
-### Markdown
+## 趣味
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+ゲームや漫画をみることが大好きで、休日に新しいゲームに没頭することが結構あります！
 
-```markdown
-Syntax highlighted code block
+### 好きなゲームのジャンル
 
-# Header 1
-## Header 2
-### Header 3
+アクション
+RPG
+推理
+作業
 
-- Bulleted
-- List
+### 好きな漫画
 
-1. Numbered
-2. List
+進撃の巨人
+ハンターハンター
+ワンパンマン
 
-**Bold** and _Italic_ and `Code` text
+## 出身地
 
-[Link](url) and ![Image](src)
-```
+高校まで沖縄県で過ごし、大学から新潟へ
+気温差がすごくて最初のころは四六時中震えていました（笑）
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+##やっていたこと
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kousei18/APIzisshuu/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+中高とサッカー部に所属していて、結構スポーツには自信があります！！
+でも、コロナ禍になってからあまり体を動かしていないので、何かしらスポーツをするときは少し体を慣らさないとダメかもです。。
